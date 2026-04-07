@@ -69,7 +69,7 @@ Website gồm 2 khu vực chính:
 
 - Hiển thị ảnh người dùng đã chọn
 - Cho phép xem trước ảnh trước khi bấm phân loại
-  ![giao diện bên trái](/static/imgs/trai.jpg)
+  ![giao diện bên trái](trai.jpg)
 
 ### Bên phải
 
