@@ -77,7 +77,7 @@ Website gồm 2 khu vực chính:
 - Nút phân loại ảnh
 - Khu vực hiển thị kết quả dự đoán
 - Hiển thị top 3 nhãn có độ tin cậy cao nhất
-  ![giao diện bên phải](/static/imgs/phai.jpg)
+  ![giao diện bên phải](phai.jpg)
 
 ---
 
@@ -144,17 +144,17 @@ http://127.0.0.1:5000
 
 ### Mô hình resnet được train với 100 epoch và đạt accuracy 90%
 
-![Huấn luyện mô hình](/static/imgs/train.jpg)
-![prediction với test dataset](/static/imgs/test.jpg)
+![Huấn luyện mô hình](train.jpg)
+![prediction với test dataset](test.jpg)
 
 ### Giao diện tổng quan
 
-![Giao diện tổng quan với Flask](/static/imgs/home.jpg)
-![Sau khi import ảnh](/static/imgs/immport.jpg)
+![Giao diện tổng quan với Flask](home.jpg)
+![Sau khi import ảnh](immport.jpg)
 
 ### Kết quả phân loại
 
-![Kết quả phân loại](/static/imgs/predict.jpg)
+![Kết quả phân loại](predict.jpg)
 
 ```
 
